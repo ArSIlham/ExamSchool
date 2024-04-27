@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prosys.Imtahan.Programi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9347649bd91396e53e797f88723eb82b1cfd56a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prosys.Imtahan.Programi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prosys.Imtahan.Programi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
